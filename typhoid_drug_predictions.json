@@ -1,0 +1,4502 @@
+[
+    {
+        "Patient_ID": 1,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6660653948783875,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 2,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.596389889717102,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 3,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6644080877304077,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 4,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6240695714950562,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 5,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.680767297744751,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 6,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6014363169670105,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 7,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6768196225166321,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 8,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7374228835105896,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 9,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6458455920219421,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 10,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.65,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5541703104972839,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 11,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7360705733299255,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 12,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6451444625854492,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 13,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5908153653144836,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 14,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7033333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6130056381225586,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 15,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6496754288673401,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 16,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6537781357765198,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 17,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6765292286872864,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 18,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7452544569969177,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 19,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6971704959869385,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 20,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5940268635749817,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 21,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5733222961425781,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 22,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6195234060287476,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 23,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6237824559211731,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 24,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.72,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5966323018074036,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 25,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7174711227416992,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 26,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6054450273513794,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 27,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5675047039985657,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 28,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.655815601348877,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 29,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7110787034034729,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 30,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.533544659614563,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 31,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7029154896736145,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 32,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.675446629524231,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 33,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6261821389198303,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 34,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.782103955745697,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 35,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.601230800151825,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 36,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6448062658309937,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 37,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5399996042251587,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 38,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6249443292617798,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 39,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6486102938652039,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 40,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5266666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5041194558143616,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 41,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6373401284217834,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 42,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5806251764297485,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 43,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5990108251571655,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 44,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5696558952331543,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 45,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6253894567489624,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 46,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5872058868408203,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 47,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6797272562980652,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 48,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5588199496269226,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 49,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5667892694473267,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 50,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5318960547447205,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 51,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5101166367530823,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 52,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.58653324842453,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 53,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6997973322868347,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 54,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7110949754714966,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 55,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.56682950258255,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 56,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.55,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6688660979270935,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 57,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5379398465156555,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 58,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6307185292243958,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 59,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6357632279396057,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 60,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6430876851081848,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 61,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6014207005500793,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 62,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5332021117210388,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 63,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5249333381652832,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 64,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6096802949905396,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 65,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.628750205039978,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 66,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6055193543434143,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 67,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.621729850769043,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 68,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.546288013458252,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 69,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6799280047416687,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 70,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6170297265052795,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 71,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6505711078643799,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 72,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6275684237480164,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 73,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.52,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.574833869934082,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 74,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7237303256988525,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 75,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5409446954727173,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 76,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5633333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5223791003227234,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 77,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6377779841423035,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 78,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5659741759300232,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 79,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.612230122089386,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 80,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5833333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6094945669174194,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 81,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5597625374794006,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 82,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5379272699356079,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 83,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5266666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7077423930168152,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 84,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5570396780967712,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 85,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.55,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6164091229438782,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 86,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7087750434875488,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 87,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6666666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5391044616699219,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 88,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6776310205459595,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 89,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5030393600463867,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 90,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.589708149433136,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 91,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5879526734352112,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 92,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6359637975692749,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 93,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.57487952709198,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 94,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6666666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7327216863632202,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 95,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7345021367073059,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 96,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5732340216636658,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 97,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.695351779460907,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 98,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7068886160850525,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 99,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6633101105690002,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 100,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6579638719558716,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 101,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6602697968482971,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 102,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5833333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5317001938819885,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 103,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5039663910865784,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 104,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.622469961643219,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 105,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6458619236946106,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 106,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6018949747085571,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 107,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5360880494117737,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 108,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7153430581092834,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 109,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.57927405834198,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 110,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5540589690208435,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 111,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6488199234008789,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 112,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5853263139724731,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 113,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6165512800216675,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 114,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.74,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6239496469497681,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 115,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.73,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5079168677330017,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 116,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6465170383453369,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 117,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6218379139900208,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 118,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5799868106842041,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 119,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.569313108921051,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 120,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6798564195632935,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 121,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6521285772323608,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 122,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5335706472396851,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 123,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.636077344417572,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 124,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.55961012840271,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 125,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5733333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5511829257011414,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 126,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6385294795036316,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 127,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6354727745056152,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 128,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6401380896568298,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 129,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5994921326637268,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 130,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5234869718551636,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 131,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.567852795124054,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 132,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.71,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6051648855209351,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 133,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5312010645866394,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 134,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6930385828018188,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 135,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5275704860687256,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 136,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5882169604301453,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 137,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5569226145744324,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 138,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5545474886894226,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 139,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6234289407730103,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 140,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5935693979263306,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 141,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.72,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5554725527763367,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 142,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5800932049751282,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 143,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5287177562713623,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 144,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6261541247367859,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 145,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5292235016822815,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 146,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7534951567649841,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 147,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5112453103065491,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 148,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5445753335952759,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 149,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6433333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5136355757713318,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 150,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6048343181610107,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 151,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5105659365653992,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 152,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5755605697631836,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 153,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6678144335746765,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 154,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5688635110855103,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 155,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.67,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5612174272537231,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 156,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6479085683822632,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 157,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5796283483505249,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 158,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.624483585357666,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 159,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6844447255134583,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 160,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6770594716072083,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 161,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5105193853378296,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 162,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5105811357498169,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 163,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5688103437423706,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 164,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5962865352630615,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 165,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5788863301277161,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 166,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5857757329940796,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 167,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6831446886062622,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 168,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6929628849029541,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 169,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6527302265167236,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 170,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5884808301925659,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 171,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6283729076385498,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 172,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5494297742843628,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 173,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.62,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5617856383323669,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 174,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6543009281158447,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 175,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5127174258232117,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 176,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5513848066329956,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 177,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6009092926979065,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 178,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5449530482292175,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 179,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5411733388900757,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 180,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5645650625228882,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 181,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5614758133888245,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 182,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5728330612182617,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 183,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6334628462791443,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 184,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5950098633766174,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 185,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6599624156951904,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 186,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6403035521507263,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 187,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.91,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5905600786209106,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 188,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.685387909412384,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 189,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5360274910926819,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 190,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6036929488182068,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 191,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5713386535644531,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 192,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5444698333740234,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 193,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5912407636642456,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 194,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5473170280456543,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 195,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5909909009933472,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 196,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5501683950424194,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 197,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5930566191673279,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 198,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5799850225448608,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 199,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.74,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5337088704109192,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 200,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6688737869262695,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 201,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.92,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6454680562019348,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 202,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5820196270942688,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 203,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5025580525398254,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 204,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5690330862998962,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 205,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.64,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6205922961235046,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 206,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6044950485229492,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 207,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5444157123565674,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 208,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.592274010181427,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 209,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.611301064491272,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 210,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5111601948738098,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 211,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5020831823348999,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 212,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5213839411735535,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 213,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6200278401374817,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 214,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5843867659568787,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 215,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5443060994148254,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 216,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.74,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.594836950302124,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 217,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5169223546981812,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 218,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5049889087677002,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 219,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6167970895767212,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 220,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5523320436477661,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 221,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6693397760391235,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 222,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6531753540039062,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 223,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5230187177658081,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 224,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5488935708999634,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 225,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6201779842376709,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 226,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5813902020454407,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 227,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6893230676651001,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 228,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5288428068161011,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 229,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.92,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5458715558052063,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 230,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5045088529586792,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 231,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.557061493396759,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 232,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6435670852661133,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 233,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6239450573921204,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 234,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5506170988082886,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 235,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5457318425178528,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 236,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6146270632743835,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 237,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6262272000312805,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 238,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5677627921104431,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 239,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.62,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5650337338447571,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 240,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5493199825286865,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 241,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5829866528511047,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 242,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5975314974784851,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 243,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6795900464057922,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 244,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6269272565841675,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 245,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6318897604942322,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 246,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5164844393730164,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 247,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5368025898933411,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 248,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5702559947967529,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 249,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5457047820091248,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 250,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5668489933013916,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 251,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5003403425216675,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 252,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5287378430366516,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 253,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5259490013122559,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 254,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6865622401237488,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 255,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5540918111801147,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 256,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5058399438858032,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 257,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6047987341880798,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 258,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5016462802886963,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 259,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5530373454093933,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 260,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6156289577484131,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 261,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.69,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5014816522598267,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 262,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6049116849899292,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 263,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.512511670589447,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 264,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.544503390789032,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 265,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5301825404167175,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 266,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5015846490859985,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 267,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5963889956474304,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 268,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5730248093605042,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 269,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.575950562953949,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 270,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5103309154510498,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 271,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5848263502120972,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 272,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6034910678863525,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 273,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5794354677200317,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 274,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5108560919761658,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 275,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5917220711708069,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 276,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5271041393280029,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 277,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5789977312088013,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 278,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5301893949508667,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 279,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5933333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6059914827346802,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 280,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5415079593658447,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 281,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6004814505577087,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 282,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5470587611198425,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 283,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5312992334365845,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 284,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6015986800193787,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 285,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5850167870521545,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 286,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5374314785003662,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 287,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5599672794342041,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 288,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5013707280158997,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 289,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5602438449859619,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 290,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6046867966651917,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 291,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6066666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5795920491218567,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 292,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6135352849960327,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 293,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6481024622917175,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 294,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6102263331413269,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 295,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.558878481388092,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 296,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5085921287536621,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 297,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6933333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.533076822757721,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 298,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6326492428779602,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 299,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5342471599578857,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 300,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5745118260383606,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 301,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5151441693305969,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 302,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5513144135475159,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 303,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.505232572555542,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 304,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5968495607376099,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 305,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7066666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6108819842338562,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 306,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5911076068878174,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 307,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.548025906085968,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 308,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5452002882957458,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 309,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7366666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5374398231506348,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 310,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5594326853752136,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 311,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5475110411643982,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 312,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6201025247573853,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 313,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5890406966209412,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 314,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5605952143669128,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 315,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5926711559295654,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 316,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.520596444606781,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 317,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5070497393608093,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 318,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5829718112945557,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 319,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.595282256603241,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 320,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5540983080863953,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 321,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5616376996040344,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 322,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5508217811584473,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 323,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5320751667022705,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 324,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5866666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.562921404838562,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 325,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.59,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.535142183303833,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 326,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5481614470481873,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 327,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6009953022003174,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 328,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5716537237167358,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 329,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5607447028160095,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 330,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5144587159156799,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 331,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5753465294837952,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 332,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6071027517318726,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 333,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5769942402839661,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 334,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5133333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5103936195373535,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 335,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7066666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6253151893615723,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 336,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5347273945808411,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 337,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5266666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5111024975776672,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 338,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5236199498176575,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 339,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6018336415290833,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 340,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5691788792610168,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 341,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7092563509941101,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 342,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.73,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5247359871864319,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 343,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5360761284828186,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 344,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5278891324996948,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 345,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5005663633346558,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 346,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5248880982398987,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 347,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5354537963867188,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 348,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6966666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.514156699180603,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 349,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5386441349983215,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 350,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5837675333023071,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 351,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5616019368171692,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 352,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5059133172035217,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 353,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5131891965866089,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 354,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6517216563224792,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 355,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.9,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5217974781990051,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 356,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5285109281539917,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 357,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.502604603767395,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 358,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.539813220500946,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 359,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7366666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5172968506813049,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 360,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5681389570236206,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 361,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5132438540458679,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 362,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5691304802894592,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 363,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5940643548965454,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 364,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5549770593643188,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 365,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6138532757759094,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 366,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5441287755966187,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 367,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5550630688667297,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 368,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5511893630027771,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 369,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.552544355392456,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 370,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5428862571716309,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 371,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6225694417953491,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 372,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.66,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.590117335319519,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 373,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.624555230140686,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 374,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5453771948814392,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 375,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5383191704750061,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 376,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.92,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5210973024368286,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 377,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.69,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5038765072822571,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 378,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5933333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5926831364631653,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 379,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5415539145469666,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 380,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5530062913894653,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 381,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5403116345405579,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 382,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.572698175907135,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 383,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.515755832195282,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 384,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5149038434028625,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 385,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.65,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5311203598976135,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 386,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.9066666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5632659792900085,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 387,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5143111944198608,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 388,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5502578616142273,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 389,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.52,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5704883337020874,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 390,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5132694244384766,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 391,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5836932063102722,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 392,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5395364165306091,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 393,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5700588226318359,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 394,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.674150824546814,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 395,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5506705641746521,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 396,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5223954319953918,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 397,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5913307666778564,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 398,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.73,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5200120806694031,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 399,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.9133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5586712956428528,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 400,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5898723602294922,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 401,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5019959211349487,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 402,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5568446516990662,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 403,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5121177434921265,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 404,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5382126569747925,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 405,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6163848042488098,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 406,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5593238472938538,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 407,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7096590399742126,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 408,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5573740601539612,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 409,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5095511674880981,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 410,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7033333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5807512998580933,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 411,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.522456705570221,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 412,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5203201770782471,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 413,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6272702217102051,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 414,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5644266605377197,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 415,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5488419532775879,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 416,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6066666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5847951173782349,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 417,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5834929943084717,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 418,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5453965067863464,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 419,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5343220233917236,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 420,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5261676907539368,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 421,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5192050933837891,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 422,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.64377760887146,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 423,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5724712014198303,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 424,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5876602530479431,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 425,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5042617321014404,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 426,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5195239782333374,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 427,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5390527248382568,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 428,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6326881051063538,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 429,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5810045599937439,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 430,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5142515897750854,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 431,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5224044322967529,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 432,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5803146362304688,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 433,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5154637098312378,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 434,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5098303556442261,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 435,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5414641499519348,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 436,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5417498350143433,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 437,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5596021413803101,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 438,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.509598970413208,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 439,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5133333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5029367804527283,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 440,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.501777708530426,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 441,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5027307868003845,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 442,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5887256264686584,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 443,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5902676582336426,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 444,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5238966345787048,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 445,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.521905779838562,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 446,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5884140133857727,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 447,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.53116375207901,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 448,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5042263269424438,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 449,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.538246214389801,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 450,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6211754679679871,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 451,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.57,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5607707500457764,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 452,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5060579776763916,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 453,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5874607563018799,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 454,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6129589080810547,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 455,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5219954252243042,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 456,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6033333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5680148601531982,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 457,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.614239513874054,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 458,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5276304483413696,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 459,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5442137718200684,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 460,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6703119277954102,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 461,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.567836344242096,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 462,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5096988677978516,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 463,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5374332666397095,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 464,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5838632583618164,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 465,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5590122938156128,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 466,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5066666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5203526616096497,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 467,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.558363676071167,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 468,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5104988217353821,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 469,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5406810641288757,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 470,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6132999658584595,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 471,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5218023657798767,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 472,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5587580800056458,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 473,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.59,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5757507681846619,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 474,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.51317298412323,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 475,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5617638826370239,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 476,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.51,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5002518892288208,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 477,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5091099143028259,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 478,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5733333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5156384110450745,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 479,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5321871638298035,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 480,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6382941603660583,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 481,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.504753828048706,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 482,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5186840891838074,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 483,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6260727047920227,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 484,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.52,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5734798312187195,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 485,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6145108938217163,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 486,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5833333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5469637513160706,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 487,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5105822682380676,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 488,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6131634712219238,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 489,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5156577229499817,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 490,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.558776319026947,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + IV Hydration"
+    },
+    {
+        "Patient_ID": 491,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5607981085777283,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 492,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5233333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5117948651313782,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin"
+    },
+    {
+        "Patient_ID": 493,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5384929180145264,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + Oral Rehydration + Calcium Supplement"
+    },
+    {
+        "Patient_ID": 494,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5760806798934937,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 495,
+        "True_Outcome": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5066666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5564560890197754,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 496,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5394988059997559,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 497,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5460846424102783,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor)"
+    },
+    {
+        "Patient_ID": 498,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.51,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5740727186203003,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    },
+    {
+        "Patient_ID": 499,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5080304741859436,
+        "Recommended_Drug": "Broad-Spectrum Antibiotic (Consult Doctor) + Oral Rehydration"
+    },
+    {
+        "Patient_ID": 500,
+        "True_Outcome": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5245470404624939,
+        "Recommended_Drug": "Ceftriaxone / Azithromycin + IV Hydration"
+    }
+]

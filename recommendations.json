@@ -1,0 +1,602 @@
+[
+    {
+        "Patient_ID": "P001",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5333333333333333
+    },
+    {
+        "Patient_ID": "P002",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5
+    },
+    {
+        "Patient_ID": "P003",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5366666666666666
+    },
+    {
+        "Patient_ID": "P004",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6433333333333333
+    },
+    {
+        "Patient_ID": "P005",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5366666666666666
+    },
+    {
+        "Patient_ID": "P006",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6233333333333333
+    },
+    {
+        "Patient_ID": "P007",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5933333333333334
+    },
+    {
+        "Patient_ID": "P008",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5733333333333334
+    },
+    {
+        "Patient_ID": "P009",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5566666666666666
+    },
+    {
+        "Patient_ID": "P010",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.57
+    },
+    {
+        "Patient_ID": "P011",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.65
+    },
+    {
+        "Patient_ID": "P012",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.7133333333333334
+    },
+    {
+        "Patient_ID": "P013",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6333333333333333
+    },
+    {
+        "Patient_ID": "P014",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.55
+    },
+    {
+        "Patient_ID": "P015",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.66
+    },
+    {
+        "Patient_ID": "P016",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.52
+    },
+    {
+        "Patient_ID": "P017",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5
+    },
+    {
+        "Patient_ID": "P018",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5566666666666666
+    },
+    {
+        "Patient_ID": "P019",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6133333333333333
+    },
+    {
+        "Patient_ID": "P020",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5566666666666666
+    },
+    {
+        "Patient_ID": "P021",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6866666666666666
+    },
+    {
+        "Patient_ID": "P022",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5233333333333333
+    },
+    {
+        "Patient_ID": "P023",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6633333333333333
+    },
+    {
+        "Patient_ID": "P024",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.6266666666666667
+    },
+    {
+        "Patient_ID": "P025",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5233333333333333
+    },
+    {
+        "Patient_ID": "P026",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5366666666666666
+    },
+    {
+        "Patient_ID": "P027",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.51
+    },
+    {
+        "Patient_ID": "P028",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5466666666666666
+    },
+    {
+        "Patient_ID": "P029",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5833333333333334
+    },
+    {
+        "Patient_ID": "P030",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.7066666666666667
+    },
+    {
+        "Patient_ID": "P031",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.51
+    },
+    {
+        "Patient_ID": "P032",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5266666666666666
+    },
+    {
+        "Patient_ID": "P033",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.6233333333333333
+    },
+    {
+        "Patient_ID": "P034",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6533333333333333
+    },
+    {
+        "Patient_ID": "P035",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5566666666666666
+    },
+    {
+        "Patient_ID": "P036",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5133333333333333
+    },
+    {
+        "Patient_ID": "P037",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.7033333333333334
+    },
+    {
+        "Patient_ID": "P038",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5366666666666666
+    },
+    {
+        "Patient_ID": "P039",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5466666666666666
+    },
+    {
+        "Patient_ID": "P040",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5466666666666666
+    },
+    {
+        "Patient_ID": "P041",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.65
+    },
+    {
+        "Patient_ID": "P042",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6666666666666666
+    },
+    {
+        "Patient_ID": "P043",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5833333333333334
+    },
+    {
+        "Patient_ID": "P044",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6
+    },
+    {
+        "Patient_ID": "P045",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5366666666666666
+    },
+    {
+        "Patient_ID": "P046",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5433333333333333
+    },
+    {
+        "Patient_ID": "P047",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6633333333333333
+    },
+    {
+        "Patient_ID": "P048",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6566666666666666
+    },
+    {
+        "Patient_ID": "P049",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6066666666666667
+    },
+    {
+        "Patient_ID": "P050",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5966666666666667
+    },
+    {
+        "Patient_ID": "P051",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.52
+    },
+    {
+        "Patient_ID": "P052",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6233333333333333
+    },
+    {
+        "Patient_ID": "P053",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.71
+    },
+    {
+        "Patient_ID": "P054",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.6
+    },
+    {
+        "Patient_ID": "P055",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6233333333333333
+    },
+    {
+        "Patient_ID": "P056",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.55
+    },
+    {
+        "Patient_ID": "P057",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6433333333333333
+    },
+    {
+        "Patient_ID": "P058",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5433333333333333
+    },
+    {
+        "Patient_ID": "P059",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.64
+    },
+    {
+        "Patient_ID": "P060",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5533333333333333
+    },
+    {
+        "Patient_ID": "P061",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5066666666666667
+    },
+    {
+        "Patient_ID": "P062",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5466666666666666
+    },
+    {
+        "Patient_ID": "P063",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5866666666666667
+    },
+    {
+        "Patient_ID": "P064",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.52
+    },
+    {
+        "Patient_ID": "P065",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5833333333333334
+    },
+    {
+        "Patient_ID": "P066",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5266666666666666
+    },
+    {
+        "Patient_ID": "P067",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5333333333333333
+    },
+    {
+        "Patient_ID": "P068",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6533333333333333
+    },
+    {
+        "Patient_ID": "P069",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.62
+    },
+    {
+        "Patient_ID": "P070",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.6266666666666667
+    },
+    {
+        "Patient_ID": "P071",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.6233333333333333
+    },
+    {
+        "Patient_ID": "P072",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.73
+    },
+    {
+        "Patient_ID": "P073",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6166666666666667
+    },
+    {
+        "Patient_ID": "P074",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6066666666666667
+    },
+    {
+        "Patient_ID": "P075",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5966666666666667
+    },
+    {
+        "Patient_ID": "P076",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.7066666666666667
+    },
+    {
+        "Patient_ID": "P077",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6166666666666667
+    },
+    {
+        "Patient_ID": "P078",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5433333333333333
+    },
+    {
+        "Patient_ID": "P079",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.6033333333333334
+    },
+    {
+        "Patient_ID": "P080",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5066666666666667
+    },
+    {
+        "Patient_ID": "P081",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.67
+    },
+    {
+        "Patient_ID": "P082",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5266666666666666
+    },
+    {
+        "Patient_ID": "P083",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5733333333333334
+    },
+    {
+        "Patient_ID": "P084",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.62
+    },
+    {
+        "Patient_ID": "P085",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6366666666666667
+    },
+    {
+        "Patient_ID": "P086",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6766666666666666
+    },
+    {
+        "Patient_ID": "P087",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5966666666666667
+    },
+    {
+        "Patient_ID": "P088",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.7533333333333333
+    },
+    {
+        "Patient_ID": "P089",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.5133333333333333
+    },
+    {
+        "Patient_ID": "P090",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5933333333333334
+    },
+    {
+        "Patient_ID": "P091",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5033333333333333
+    },
+    {
+        "Patient_ID": "P092",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.59
+    },
+    {
+        "Patient_ID": "P093",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6233333333333333
+    },
+    {
+        "Patient_ID": "P094",
+        "True_Label": 0,
+        "Predicted_Label": 1,
+        "Confidence": 0.59
+    },
+    {
+        "Patient_ID": "P095",
+        "True_Label": 0,
+        "Predicted_Label": 0,
+        "Confidence": 0.5233333333333333
+    },
+    {
+        "Patient_ID": "P096",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.6966666666666667
+    },
+    {
+        "Patient_ID": "P097",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.6666666666666666
+    },
+    {
+        "Patient_ID": "P098",
+        "True_Label": 1,
+        "Predicted_Label": 1,
+        "Confidence": 0.5633333333333334
+    },
+    {
+        "Patient_ID": "P099",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.5133333333333333
+    },
+    {
+        "Patient_ID": "P100",
+        "True_Label": 1,
+        "Predicted_Label": 0,
+        "Confidence": 0.78
+    }
+]

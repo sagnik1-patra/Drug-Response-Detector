@@ -1,0 +1,4002 @@
+[
+    {
+        "Patient_ID": 1,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6660653948783875
+    },
+    {
+        "Patient_ID": 2,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.596389889717102
+    },
+    {
+        "Patient_ID": 3,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6644080877304077
+    },
+    {
+        "Patient_ID": 4,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6240695714950562
+    },
+    {
+        "Patient_ID": 5,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.680767297744751
+    },
+    {
+        "Patient_ID": 6,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6014363169670105
+    },
+    {
+        "Patient_ID": 7,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6768196225166321
+    },
+    {
+        "Patient_ID": 8,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7374228835105896
+    },
+    {
+        "Patient_ID": 9,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6458455920219421
+    },
+    {
+        "Patient_ID": 10,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.65,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5541703104972839
+    },
+    {
+        "Patient_ID": 11,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7360705733299255
+    },
+    {
+        "Patient_ID": 12,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6451444625854492
+    },
+    {
+        "Patient_ID": 13,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5908153653144836
+    },
+    {
+        "Patient_ID": 14,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7033333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6130056381225586
+    },
+    {
+        "Patient_ID": 15,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6496754288673401
+    },
+    {
+        "Patient_ID": 16,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6537781357765198
+    },
+    {
+        "Patient_ID": 17,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6765292286872864
+    },
+    {
+        "Patient_ID": 18,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7452544569969177
+    },
+    {
+        "Patient_ID": 19,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6971704959869385
+    },
+    {
+        "Patient_ID": 20,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5940268635749817
+    },
+    {
+        "Patient_ID": 21,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5733222961425781
+    },
+    {
+        "Patient_ID": 22,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6195234060287476
+    },
+    {
+        "Patient_ID": 23,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6237824559211731
+    },
+    {
+        "Patient_ID": 24,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.72,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5966323018074036
+    },
+    {
+        "Patient_ID": 25,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7174711227416992
+    },
+    {
+        "Patient_ID": 26,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6054450273513794
+    },
+    {
+        "Patient_ID": 27,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5675047039985657
+    },
+    {
+        "Patient_ID": 28,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.655815601348877
+    },
+    {
+        "Patient_ID": 29,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7110787034034729
+    },
+    {
+        "Patient_ID": 30,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.533544659614563
+    },
+    {
+        "Patient_ID": 31,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7029154896736145
+    },
+    {
+        "Patient_ID": 32,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.675446629524231
+    },
+    {
+        "Patient_ID": 33,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6261821389198303
+    },
+    {
+        "Patient_ID": 34,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.782103955745697
+    },
+    {
+        "Patient_ID": 35,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.601230800151825
+    },
+    {
+        "Patient_ID": 36,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6448062658309937
+    },
+    {
+        "Patient_ID": 37,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5399996042251587
+    },
+    {
+        "Patient_ID": 38,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6249443292617798
+    },
+    {
+        "Patient_ID": 39,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6486102938652039
+    },
+    {
+        "Patient_ID": 40,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5266666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5041194558143616
+    },
+    {
+        "Patient_ID": 41,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6373401284217834
+    },
+    {
+        "Patient_ID": 42,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5806251764297485
+    },
+    {
+        "Patient_ID": 43,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5990108251571655
+    },
+    {
+        "Patient_ID": 44,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5696558952331543
+    },
+    {
+        "Patient_ID": 45,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6253894567489624
+    },
+    {
+        "Patient_ID": 46,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5872058868408203
+    },
+    {
+        "Patient_ID": 47,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6797272562980652
+    },
+    {
+        "Patient_ID": 48,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5588199496269226
+    },
+    {
+        "Patient_ID": 49,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5667892694473267
+    },
+    {
+        "Patient_ID": 50,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5318960547447205
+    },
+    {
+        "Patient_ID": 51,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5101166367530823
+    },
+    {
+        "Patient_ID": 52,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.58653324842453
+    },
+    {
+        "Patient_ID": 53,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6997973322868347
+    },
+    {
+        "Patient_ID": 54,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7110949754714966
+    },
+    {
+        "Patient_ID": 55,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.56682950258255
+    },
+    {
+        "Patient_ID": 56,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.55,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6688660979270935
+    },
+    {
+        "Patient_ID": 57,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5379398465156555
+    },
+    {
+        "Patient_ID": 58,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6307185292243958
+    },
+    {
+        "Patient_ID": 59,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6357632279396057
+    },
+    {
+        "Patient_ID": 60,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6430876851081848
+    },
+    {
+        "Patient_ID": 61,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6014207005500793
+    },
+    {
+        "Patient_ID": 62,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5332021117210388
+    },
+    {
+        "Patient_ID": 63,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5249333381652832
+    },
+    {
+        "Patient_ID": 64,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6096802949905396
+    },
+    {
+        "Patient_ID": 65,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.628750205039978
+    },
+    {
+        "Patient_ID": 66,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6055193543434143
+    },
+    {
+        "Patient_ID": 67,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.621729850769043
+    },
+    {
+        "Patient_ID": 68,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.546288013458252
+    },
+    {
+        "Patient_ID": 69,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6799280047416687
+    },
+    {
+        "Patient_ID": 70,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6170297265052795
+    },
+    {
+        "Patient_ID": 71,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6505711078643799
+    },
+    {
+        "Patient_ID": 72,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6275684237480164
+    },
+    {
+        "Patient_ID": 73,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.52,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.574833869934082
+    },
+    {
+        "Patient_ID": 74,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7237303256988525
+    },
+    {
+        "Patient_ID": 75,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5409446954727173
+    },
+    {
+        "Patient_ID": 76,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5633333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5223791003227234
+    },
+    {
+        "Patient_ID": 77,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6377779841423035
+    },
+    {
+        "Patient_ID": 78,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5659741759300232
+    },
+    {
+        "Patient_ID": 79,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.612230122089386
+    },
+    {
+        "Patient_ID": 80,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5833333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6094945669174194
+    },
+    {
+        "Patient_ID": 81,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5597625374794006
+    },
+    {
+        "Patient_ID": 82,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5379272699356079
+    },
+    {
+        "Patient_ID": 83,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5266666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7077423930168152
+    },
+    {
+        "Patient_ID": 84,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5570396780967712
+    },
+    {
+        "Patient_ID": 85,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.55,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6164091229438782
+    },
+    {
+        "Patient_ID": 86,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7087750434875488
+    },
+    {
+        "Patient_ID": 87,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6666666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5391044616699219
+    },
+    {
+        "Patient_ID": 88,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6776310205459595
+    },
+    {
+        "Patient_ID": 89,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5030393600463867
+    },
+    {
+        "Patient_ID": 90,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.589708149433136
+    },
+    {
+        "Patient_ID": 91,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5879526734352112
+    },
+    {
+        "Patient_ID": 92,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6359637975692749
+    },
+    {
+        "Patient_ID": 93,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.57487952709198
+    },
+    {
+        "Patient_ID": 94,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6666666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7327216863632202
+    },
+    {
+        "Patient_ID": 95,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7345021367073059
+    },
+    {
+        "Patient_ID": 96,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5732340216636658
+    },
+    {
+        "Patient_ID": 97,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.695351779460907
+    },
+    {
+        "Patient_ID": 98,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7068886160850525
+    },
+    {
+        "Patient_ID": 99,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6633101105690002
+    },
+    {
+        "Patient_ID": 100,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6579638719558716
+    },
+    {
+        "Patient_ID": 101,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6602697968482971
+    },
+    {
+        "Patient_ID": 102,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5833333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5317001938819885
+    },
+    {
+        "Patient_ID": 103,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5039663910865784
+    },
+    {
+        "Patient_ID": 104,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.622469961643219
+    },
+    {
+        "Patient_ID": 105,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6458619236946106
+    },
+    {
+        "Patient_ID": 106,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6018949747085571
+    },
+    {
+        "Patient_ID": 107,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5360880494117737
+    },
+    {
+        "Patient_ID": 108,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7153430581092834
+    },
+    {
+        "Patient_ID": 109,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.57927405834198
+    },
+    {
+        "Patient_ID": 110,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5540589690208435
+    },
+    {
+        "Patient_ID": 111,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6488199234008789
+    },
+    {
+        "Patient_ID": 112,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5853263139724731
+    },
+    {
+        "Patient_ID": 113,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6165512800216675
+    },
+    {
+        "Patient_ID": 114,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.74,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6239496469497681
+    },
+    {
+        "Patient_ID": 115,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.73,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5079168677330017
+    },
+    {
+        "Patient_ID": 116,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6465170383453369
+    },
+    {
+        "Patient_ID": 117,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6218379139900208
+    },
+    {
+        "Patient_ID": 118,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5799868106842041
+    },
+    {
+        "Patient_ID": 119,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.569313108921051
+    },
+    {
+        "Patient_ID": 120,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6798564195632935
+    },
+    {
+        "Patient_ID": 121,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6521285772323608
+    },
+    {
+        "Patient_ID": 122,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5335706472396851
+    },
+    {
+        "Patient_ID": 123,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.636077344417572
+    },
+    {
+        "Patient_ID": 124,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.55961012840271
+    },
+    {
+        "Patient_ID": 125,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5733333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5511829257011414
+    },
+    {
+        "Patient_ID": 126,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6385294795036316
+    },
+    {
+        "Patient_ID": 127,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6354727745056152
+    },
+    {
+        "Patient_ID": 128,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6401380896568298
+    },
+    {
+        "Patient_ID": 129,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5994921326637268
+    },
+    {
+        "Patient_ID": 130,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5234869718551636
+    },
+    {
+        "Patient_ID": 131,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.567852795124054
+    },
+    {
+        "Patient_ID": 132,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.71,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6051648855209351
+    },
+    {
+        "Patient_ID": 133,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5312010645866394
+    },
+    {
+        "Patient_ID": 134,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6930385828018188
+    },
+    {
+        "Patient_ID": 135,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5275704860687256
+    },
+    {
+        "Patient_ID": 136,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5882169604301453
+    },
+    {
+        "Patient_ID": 137,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5569226145744324
+    },
+    {
+        "Patient_ID": 138,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5545474886894226
+    },
+    {
+        "Patient_ID": 139,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6234289407730103
+    },
+    {
+        "Patient_ID": 140,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5935693979263306
+    },
+    {
+        "Patient_ID": 141,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.72,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5554725527763367
+    },
+    {
+        "Patient_ID": 142,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5800932049751282
+    },
+    {
+        "Patient_ID": 143,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5287177562713623
+    },
+    {
+        "Patient_ID": 144,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6261541247367859
+    },
+    {
+        "Patient_ID": 145,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5292235016822815
+    },
+    {
+        "Patient_ID": 146,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7534951567649841
+    },
+    {
+        "Patient_ID": 147,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5112453103065491
+    },
+    {
+        "Patient_ID": 148,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5445753335952759
+    },
+    {
+        "Patient_ID": 149,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6433333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5136355757713318
+    },
+    {
+        "Patient_ID": 150,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6048343181610107
+    },
+    {
+        "Patient_ID": 151,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5105659365653992
+    },
+    {
+        "Patient_ID": 152,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5755605697631836
+    },
+    {
+        "Patient_ID": 153,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6678144335746765
+    },
+    {
+        "Patient_ID": 154,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5688635110855103
+    },
+    {
+        "Patient_ID": 155,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.67,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5612174272537231
+    },
+    {
+        "Patient_ID": 156,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6479085683822632
+    },
+    {
+        "Patient_ID": 157,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5796283483505249
+    },
+    {
+        "Patient_ID": 158,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.624483585357666
+    },
+    {
+        "Patient_ID": 159,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6844447255134583
+    },
+    {
+        "Patient_ID": 160,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6770594716072083
+    },
+    {
+        "Patient_ID": 161,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5105193853378296
+    },
+    {
+        "Patient_ID": 162,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5105811357498169
+    },
+    {
+        "Patient_ID": 163,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5688103437423706
+    },
+    {
+        "Patient_ID": 164,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5962865352630615
+    },
+    {
+        "Patient_ID": 165,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5788863301277161
+    },
+    {
+        "Patient_ID": 166,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5857757329940796
+    },
+    {
+        "Patient_ID": 167,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6831446886062622
+    },
+    {
+        "Patient_ID": 168,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6929628849029541
+    },
+    {
+        "Patient_ID": 169,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6527302265167236
+    },
+    {
+        "Patient_ID": 170,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5884808301925659
+    },
+    {
+        "Patient_ID": 171,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6283729076385498
+    },
+    {
+        "Patient_ID": 172,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5494297742843628
+    },
+    {
+        "Patient_ID": 173,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.62,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5617856383323669
+    },
+    {
+        "Patient_ID": 174,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6543009281158447
+    },
+    {
+        "Patient_ID": 175,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5127174258232117
+    },
+    {
+        "Patient_ID": 176,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5513848066329956
+    },
+    {
+        "Patient_ID": 177,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6009092926979065
+    },
+    {
+        "Patient_ID": 178,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5449530482292175
+    },
+    {
+        "Patient_ID": 179,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5411733388900757
+    },
+    {
+        "Patient_ID": 180,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5645650625228882
+    },
+    {
+        "Patient_ID": 181,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5614758133888245
+    },
+    {
+        "Patient_ID": 182,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5728330612182617
+    },
+    {
+        "Patient_ID": 183,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6334628462791443
+    },
+    {
+        "Patient_ID": 184,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5950098633766174
+    },
+    {
+        "Patient_ID": 185,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6599624156951904
+    },
+    {
+        "Patient_ID": 186,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6403035521507263
+    },
+    {
+        "Patient_ID": 187,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.91,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5905600786209106
+    },
+    {
+        "Patient_ID": 188,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.685387909412384
+    },
+    {
+        "Patient_ID": 189,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5360274910926819
+    },
+    {
+        "Patient_ID": 190,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6036929488182068
+    },
+    {
+        "Patient_ID": 191,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5713386535644531
+    },
+    {
+        "Patient_ID": 192,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5444698333740234
+    },
+    {
+        "Patient_ID": 193,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5912407636642456
+    },
+    {
+        "Patient_ID": 194,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5473170280456543
+    },
+    {
+        "Patient_ID": 195,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5909909009933472
+    },
+    {
+        "Patient_ID": 196,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5501683950424194
+    },
+    {
+        "Patient_ID": 197,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5930566191673279
+    },
+    {
+        "Patient_ID": 198,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5799850225448608
+    },
+    {
+        "Patient_ID": 199,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.74,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5337088704109192
+    },
+    {
+        "Patient_ID": 200,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6688737869262695
+    },
+    {
+        "Patient_ID": 201,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.92,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6454680562019348
+    },
+    {
+        "Patient_ID": 202,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5820196270942688
+    },
+    {
+        "Patient_ID": 203,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5025580525398254
+    },
+    {
+        "Patient_ID": 204,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5690330862998962
+    },
+    {
+        "Patient_ID": 205,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.64,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6205922961235046
+    },
+    {
+        "Patient_ID": 206,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6044950485229492
+    },
+    {
+        "Patient_ID": 207,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5444157123565674
+    },
+    {
+        "Patient_ID": 208,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.592274010181427
+    },
+    {
+        "Patient_ID": 209,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.611301064491272
+    },
+    {
+        "Patient_ID": 210,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5111601948738098
+    },
+    {
+        "Patient_ID": 211,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5020831823348999
+    },
+    {
+        "Patient_ID": 212,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5213839411735535
+    },
+    {
+        "Patient_ID": 213,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6200278401374817
+    },
+    {
+        "Patient_ID": 214,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5843867659568787
+    },
+    {
+        "Patient_ID": 215,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5443060994148254
+    },
+    {
+        "Patient_ID": 216,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.74,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.594836950302124
+    },
+    {
+        "Patient_ID": 217,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5169223546981812
+    },
+    {
+        "Patient_ID": 218,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5049889087677002
+    },
+    {
+        "Patient_ID": 219,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6167970895767212
+    },
+    {
+        "Patient_ID": 220,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5523320436477661
+    },
+    {
+        "Patient_ID": 221,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8766666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6693397760391235
+    },
+    {
+        "Patient_ID": 222,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6531753540039062
+    },
+    {
+        "Patient_ID": 223,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5230187177658081
+    },
+    {
+        "Patient_ID": 224,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5488935708999634
+    },
+    {
+        "Patient_ID": 225,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6201779842376709
+    },
+    {
+        "Patient_ID": 226,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5813902020454407
+    },
+    {
+        "Patient_ID": 227,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6893230676651001
+    },
+    {
+        "Patient_ID": 228,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5288428068161011
+    },
+    {
+        "Patient_ID": 229,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.92,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5458715558052063
+    },
+    {
+        "Patient_ID": 230,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5045088529586792
+    },
+    {
+        "Patient_ID": 231,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.557061493396759
+    },
+    {
+        "Patient_ID": 232,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6435670852661133
+    },
+    {
+        "Patient_ID": 233,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6239450573921204
+    },
+    {
+        "Patient_ID": 234,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5506170988082886
+    },
+    {
+        "Patient_ID": 235,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5457318425178528
+    },
+    {
+        "Patient_ID": 236,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6146270632743835
+    },
+    {
+        "Patient_ID": 237,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6262272000312805
+    },
+    {
+        "Patient_ID": 238,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5677627921104431
+    },
+    {
+        "Patient_ID": 239,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.62,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5650337338447571
+    },
+    {
+        "Patient_ID": 240,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5493199825286865
+    },
+    {
+        "Patient_ID": 241,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5829866528511047
+    },
+    {
+        "Patient_ID": 242,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5975314974784851
+    },
+    {
+        "Patient_ID": 243,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6795900464057922
+    },
+    {
+        "Patient_ID": 244,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6269272565841675
+    },
+    {
+        "Patient_ID": 245,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6318897604942322
+    },
+    {
+        "Patient_ID": 246,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5164844393730164
+    },
+    {
+        "Patient_ID": 247,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5368025898933411
+    },
+    {
+        "Patient_ID": 248,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5702559947967529
+    },
+    {
+        "Patient_ID": 249,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5457047820091248
+    },
+    {
+        "Patient_ID": 250,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5668489933013916
+    },
+    {
+        "Patient_ID": 251,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5003403425216675
+    },
+    {
+        "Patient_ID": 252,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5287378430366516
+    },
+    {
+        "Patient_ID": 253,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5259490013122559
+    },
+    {
+        "Patient_ID": 254,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6865622401237488
+    },
+    {
+        "Patient_ID": 255,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5540918111801147
+    },
+    {
+        "Patient_ID": 256,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5058399438858032
+    },
+    {
+        "Patient_ID": 257,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6047987341880798
+    },
+    {
+        "Patient_ID": 258,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5016462802886963
+    },
+    {
+        "Patient_ID": 259,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5530373454093933
+    },
+    {
+        "Patient_ID": 260,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6156289577484131
+    },
+    {
+        "Patient_ID": 261,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.69,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5014816522598267
+    },
+    {
+        "Patient_ID": 262,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6049116849899292
+    },
+    {
+        "Patient_ID": 263,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5466666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.512511670589447
+    },
+    {
+        "Patient_ID": 264,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.544503390789032
+    },
+    {
+        "Patient_ID": 265,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5301825404167175
+    },
+    {
+        "Patient_ID": 266,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5015846490859985
+    },
+    {
+        "Patient_ID": 267,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5963889956474304
+    },
+    {
+        "Patient_ID": 268,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5730248093605042
+    },
+    {
+        "Patient_ID": 269,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.575950562953949
+    },
+    {
+        "Patient_ID": 270,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5103309154510498
+    },
+    {
+        "Patient_ID": 271,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5848263502120972
+    },
+    {
+        "Patient_ID": 272,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6034910678863525
+    },
+    {
+        "Patient_ID": 273,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5794354677200317
+    },
+    {
+        "Patient_ID": 274,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5108560919761658
+    },
+    {
+        "Patient_ID": 275,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7833333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5917220711708069
+    },
+    {
+        "Patient_ID": 276,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5271041393280029
+    },
+    {
+        "Patient_ID": 277,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5789977312088013
+    },
+    {
+        "Patient_ID": 278,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5301893949508667
+    },
+    {
+        "Patient_ID": 279,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5933333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6059914827346802
+    },
+    {
+        "Patient_ID": 280,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5415079593658447
+    },
+    {
+        "Patient_ID": 281,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6004814505577087
+    },
+    {
+        "Patient_ID": 282,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5470587611198425
+    },
+    {
+        "Patient_ID": 283,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5312992334365845
+    },
+    {
+        "Patient_ID": 284,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6015986800193787
+    },
+    {
+        "Patient_ID": 285,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5850167870521545
+    },
+    {
+        "Patient_ID": 286,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5374314785003662
+    },
+    {
+        "Patient_ID": 287,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5599672794342041
+    },
+    {
+        "Patient_ID": 288,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5013707280158997
+    },
+    {
+        "Patient_ID": 289,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5602438449859619
+    },
+    {
+        "Patient_ID": 290,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6046867966651917
+    },
+    {
+        "Patient_ID": 291,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6066666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5795920491218567
+    },
+    {
+        "Patient_ID": 292,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6135352849960327
+    },
+    {
+        "Patient_ID": 293,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6481024622917175
+    },
+    {
+        "Patient_ID": 294,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6102263331413269
+    },
+    {
+        "Patient_ID": 295,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.558878481388092
+    },
+    {
+        "Patient_ID": 296,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5085921287536621
+    },
+    {
+        "Patient_ID": 297,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6933333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.533076822757721
+    },
+    {
+        "Patient_ID": 298,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6326492428779602
+    },
+    {
+        "Patient_ID": 299,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5342471599578857
+    },
+    {
+        "Patient_ID": 300,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5745118260383606
+    },
+    {
+        "Patient_ID": 301,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5151441693305969
+    },
+    {
+        "Patient_ID": 302,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5513144135475159
+    },
+    {
+        "Patient_ID": 303,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.505232572555542
+    },
+    {
+        "Patient_ID": 304,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5968495607376099
+    },
+    {
+        "Patient_ID": 305,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7066666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6108819842338562
+    },
+    {
+        "Patient_ID": 306,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5911076068878174
+    },
+    {
+        "Patient_ID": 307,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.548025906085968
+    },
+    {
+        "Patient_ID": 308,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5452002882957458
+    },
+    {
+        "Patient_ID": 309,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7366666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5374398231506348
+    },
+    {
+        "Patient_ID": 310,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5594326853752136
+    },
+    {
+        "Patient_ID": 311,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5475110411643982
+    },
+    {
+        "Patient_ID": 312,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6201025247573853
+    },
+    {
+        "Patient_ID": 313,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5890406966209412
+    },
+    {
+        "Patient_ID": 314,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5605952143669128
+    },
+    {
+        "Patient_ID": 315,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5926711559295654
+    },
+    {
+        "Patient_ID": 316,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.520596444606781
+    },
+    {
+        "Patient_ID": 317,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5070497393608093
+    },
+    {
+        "Patient_ID": 318,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5966666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5829718112945557
+    },
+    {
+        "Patient_ID": 319,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.595282256603241
+    },
+    {
+        "Patient_ID": 320,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5540983080863953
+    },
+    {
+        "Patient_ID": 321,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5616376996040344
+    },
+    {
+        "Patient_ID": 322,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5508217811584473
+    },
+    {
+        "Patient_ID": 323,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5320751667022705
+    },
+    {
+        "Patient_ID": 324,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5866666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.562921404838562
+    },
+    {
+        "Patient_ID": 325,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.59,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.535142183303833
+    },
+    {
+        "Patient_ID": 326,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.9033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5481614470481873
+    },
+    {
+        "Patient_ID": 327,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6009953022003174
+    },
+    {
+        "Patient_ID": 328,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5716537237167358
+    },
+    {
+        "Patient_ID": 329,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5607447028160095
+    },
+    {
+        "Patient_ID": 330,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5144587159156799
+    },
+    {
+        "Patient_ID": 331,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5753465294837952
+    },
+    {
+        "Patient_ID": 332,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6071027517318726
+    },
+    {
+        "Patient_ID": 333,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5769942402839661
+    },
+    {
+        "Patient_ID": 334,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5133333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5103936195373535
+    },
+    {
+        "Patient_ID": 335,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7066666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6253151893615723
+    },
+    {
+        "Patient_ID": 336,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5347273945808411
+    },
+    {
+        "Patient_ID": 337,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5266666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5111024975776672
+    },
+    {
+        "Patient_ID": 338,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5236199498176575
+    },
+    {
+        "Patient_ID": 339,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6018336415290833
+    },
+    {
+        "Patient_ID": 340,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5691788792610168
+    },
+    {
+        "Patient_ID": 341,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7092563509941101
+    },
+    {
+        "Patient_ID": 342,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.73,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5247359871864319
+    },
+    {
+        "Patient_ID": 343,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5360761284828186
+    },
+    {
+        "Patient_ID": 344,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5278891324996948
+    },
+    {
+        "Patient_ID": 345,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5005663633346558
+    },
+    {
+        "Patient_ID": 346,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5248880982398987
+    },
+    {
+        "Patient_ID": 347,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5354537963867188
+    },
+    {
+        "Patient_ID": 348,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6966666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.514156699180603
+    },
+    {
+        "Patient_ID": 349,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5386441349983215
+    },
+    {
+        "Patient_ID": 350,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5837675333023071
+    },
+    {
+        "Patient_ID": 351,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5616019368171692
+    },
+    {
+        "Patient_ID": 352,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5059133172035217
+    },
+    {
+        "Patient_ID": 353,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5131891965866089
+    },
+    {
+        "Patient_ID": 354,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8866666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6517216563224792
+    },
+    {
+        "Patient_ID": 355,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.9,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5217974781990051
+    },
+    {
+        "Patient_ID": 356,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.76,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5285109281539917
+    },
+    {
+        "Patient_ID": 357,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.502604603767395
+    },
+    {
+        "Patient_ID": 358,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.539813220500946
+    },
+    {
+        "Patient_ID": 359,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7366666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5172968506813049
+    },
+    {
+        "Patient_ID": 360,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5681389570236206
+    },
+    {
+        "Patient_ID": 361,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5132438540458679
+    },
+    {
+        "Patient_ID": 362,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5691304802894592
+    },
+    {
+        "Patient_ID": 363,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5940643548965454
+    },
+    {
+        "Patient_ID": 364,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5549770593643188
+    },
+    {
+        "Patient_ID": 365,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6138532757759094
+    },
+    {
+        "Patient_ID": 366,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5441287755966187
+    },
+    {
+        "Patient_ID": 367,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8533333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5550630688667297
+    },
+    {
+        "Patient_ID": 368,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.77,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5511893630027771
+    },
+    {
+        "Patient_ID": 369,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.552544355392456
+    },
+    {
+        "Patient_ID": 370,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5428862571716309
+    },
+    {
+        "Patient_ID": 371,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6225694417953491
+    },
+    {
+        "Patient_ID": 372,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.66,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.590117335319519
+    },
+    {
+        "Patient_ID": 373,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.624555230140686
+    },
+    {
+        "Patient_ID": 374,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5453771948814392
+    },
+    {
+        "Patient_ID": 375,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5383191704750061
+    },
+    {
+        "Patient_ID": 376,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.92,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5210973024368286
+    },
+    {
+        "Patient_ID": 377,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.69,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5038765072822571
+    },
+    {
+        "Patient_ID": 378,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5933333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5926831364631653
+    },
+    {
+        "Patient_ID": 379,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5415539145469666
+    },
+    {
+        "Patient_ID": 380,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.85,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5530062913894653
+    },
+    {
+        "Patient_ID": 381,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5403116345405579
+    },
+    {
+        "Patient_ID": 382,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.572698175907135
+    },
+    {
+        "Patient_ID": 383,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.515755832195282
+    },
+    {
+        "Patient_ID": 384,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5149038434028625
+    },
+    {
+        "Patient_ID": 385,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.65,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5311203598976135
+    },
+    {
+        "Patient_ID": 386,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.9066666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5632659792900085
+    },
+    {
+        "Patient_ID": 387,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5143111944198608
+    },
+    {
+        "Patient_ID": 388,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5502578616142273
+    },
+    {
+        "Patient_ID": 389,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.52,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5704883337020874
+    },
+    {
+        "Patient_ID": 390,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8433333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5132694244384766
+    },
+    {
+        "Patient_ID": 391,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5836932063102722
+    },
+    {
+        "Patient_ID": 392,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5395364165306091
+    },
+    {
+        "Patient_ID": 393,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5700588226318359
+    },
+    {
+        "Patient_ID": 394,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.674150824546814
+    },
+    {
+        "Patient_ID": 395,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5506705641746521
+    },
+    {
+        "Patient_ID": 396,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5223954319953918
+    },
+    {
+        "Patient_ID": 397,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5913307666778564
+    },
+    {
+        "Patient_ID": 398,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.73,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5200120806694031
+    },
+    {
+        "Patient_ID": 399,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.9133333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5586712956428528
+    },
+    {
+        "Patient_ID": 400,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5898723602294922
+    },
+    {
+        "Patient_ID": 401,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5019959211349487
+    },
+    {
+        "Patient_ID": 402,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5568446516990662
+    },
+    {
+        "Patient_ID": 403,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5121177434921265
+    },
+    {
+        "Patient_ID": 404,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.87,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5382126569747925
+    },
+    {
+        "Patient_ID": 405,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6163848042488098
+    },
+    {
+        "Patient_ID": 406,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5593238472938538
+    },
+    {
+        "Patient_ID": 407,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.7096590399742126
+    },
+    {
+        "Patient_ID": 408,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5573740601539612
+    },
+    {
+        "Patient_ID": 409,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5566666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5095511674880981
+    },
+    {
+        "Patient_ID": 410,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7033333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5807512998580933
+    },
+    {
+        "Patient_ID": 411,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.522456705570221
+    },
+    {
+        "Patient_ID": 412,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.79,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5203201770782471
+    },
+    {
+        "Patient_ID": 413,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6272702217102051
+    },
+    {
+        "Patient_ID": 414,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5644266605377197
+    },
+    {
+        "Patient_ID": 415,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5488419532775879
+    },
+    {
+        "Patient_ID": 416,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6066666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5847951173782349
+    },
+    {
+        "Patient_ID": 417,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5834929943084717
+    },
+    {
+        "Patient_ID": 418,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5453965067863464
+    },
+    {
+        "Patient_ID": 419,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.89,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5343220233917236
+    },
+    {
+        "Patient_ID": 420,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5261676907539368
+    },
+    {
+        "Patient_ID": 421,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7533333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5192050933837891
+    },
+    {
+        "Patient_ID": 422,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.64377760887146
+    },
+    {
+        "Patient_ID": 423,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5724712014198303
+    },
+    {
+        "Patient_ID": 424,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5876602530479431
+    },
+    {
+        "Patient_ID": 425,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5042617321014404
+    },
+    {
+        "Patient_ID": 426,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5195239782333374
+    },
+    {
+        "Patient_ID": 427,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5390527248382568
+    },
+    {
+        "Patient_ID": 428,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8033333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6326881051063538
+    },
+    {
+        "Patient_ID": 429,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5810045599937439
+    },
+    {
+        "Patient_ID": 430,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5142515897750854
+    },
+    {
+        "Patient_ID": 431,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5224044322967529
+    },
+    {
+        "Patient_ID": 432,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5233333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5803146362304688
+    },
+    {
+        "Patient_ID": 433,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8066666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5154637098312378
+    },
+    {
+        "Patient_ID": 434,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8966666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5098303556442261
+    },
+    {
+        "Patient_ID": 435,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5414641499519348
+    },
+    {
+        "Patient_ID": 436,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5417498350143433
+    },
+    {
+        "Patient_ID": 437,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5596021413803101
+    },
+    {
+        "Patient_ID": 438,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.509598970413208
+    },
+    {
+        "Patient_ID": 439,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5133333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5029367804527283
+    },
+    {
+        "Patient_ID": 440,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.501777708530426
+    },
+    {
+        "Patient_ID": 441,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.6233333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5027307868003845
+    },
+    {
+        "Patient_ID": 442,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.88,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5887256264686584
+    },
+    {
+        "Patient_ID": 443,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5902676582336426
+    },
+    {
+        "Patient_ID": 444,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5238966345787048
+    },
+    {
+        "Patient_ID": 445,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.521905779838562
+    },
+    {
+        "Patient_ID": 446,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7666666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5884140133857727
+    },
+    {
+        "Patient_ID": 447,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.53116375207901
+    },
+    {
+        "Patient_ID": 448,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5042263269424438
+    },
+    {
+        "Patient_ID": 449,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.538246214389801
+    },
+    {
+        "Patient_ID": 450,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6211754679679871
+    },
+    {
+        "Patient_ID": 451,
+        "True_Label": "Successful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.57,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5607707500457764
+    },
+    {
+        "Patient_ID": 452,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5333333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5060579776763916
+    },
+    {
+        "Patient_ID": 453,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5874607563018799
+    },
+    {
+        "Patient_ID": 454,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6129589080810547
+    },
+    {
+        "Patient_ID": 455,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.75,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5219954252243042
+    },
+    {
+        "Patient_ID": 456,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6033333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5680148601531982
+    },
+    {
+        "Patient_ID": 457,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8833333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.614239513874054
+    },
+    {
+        "Patient_ID": 458,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5276304483413696
+    },
+    {
+        "Patient_ID": 459,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.82,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5442137718200684
+    },
+    {
+        "Patient_ID": 460,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6703119277954102
+    },
+    {
+        "Patient_ID": 461,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.567836344242096
+    },
+    {
+        "Patient_ID": 462,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5366666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5096988677978516
+    },
+    {
+        "Patient_ID": 463,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8233333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5374332666397095
+    },
+    {
+        "Patient_ID": 464,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5838632583618164
+    },
+    {
+        "Patient_ID": 465,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.86,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5590122938156128
+    },
+    {
+        "Patient_ID": 466,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5066666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5203526616096497
+    },
+    {
+        "Patient_ID": 467,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8133333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.558363676071167
+    },
+    {
+        "Patient_ID": 468,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5104988217353821
+    },
+    {
+        "Patient_ID": 469,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5406810641288757
+    },
+    {
+        "Patient_ID": 470,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8566666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6132999658584595
+    },
+    {
+        "Patient_ID": 471,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7633333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5218023657798767
+    },
+    {
+        "Patient_ID": 472,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5587580800056458
+    },
+    {
+        "Patient_ID": 473,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.59,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5757507681846619
+    },
+    {
+        "Patient_ID": 474,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7766666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.51317298412323
+    },
+    {
+        "Patient_ID": 475,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7433333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5617638826370239
+    },
+    {
+        "Patient_ID": 476,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.51,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5002518892288208
+    },
+    {
+        "Patient_ID": 477,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7866666666666666,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5091099143028259
+    },
+    {
+        "Patient_ID": 478,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5733333333333334,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5156384110450745
+    },
+    {
+        "Patient_ID": 479,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8366666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5321871638298035
+    },
+    {
+        "Patient_ID": 480,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.6382941603660583
+    },
+    {
+        "Patient_ID": 481,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.504753828048706
+    },
+    {
+        "Patient_ID": 482,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.83,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5186840891838074
+    },
+    {
+        "Patient_ID": 483,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.78,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6260727047920227
+    },
+    {
+        "Patient_ID": 484,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.52,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5734798312187195
+    },
+    {
+        "Patient_ID": 485,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.7733333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6145108938217163
+    },
+    {
+        "Patient_ID": 486,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5833333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5469637513160706
+    },
+    {
+        "Patient_ID": 487,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7566666666666667,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5105822682380676
+    },
+    {
+        "Patient_ID": 488,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8166666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.6131634712219238
+    },
+    {
+        "Patient_ID": 489,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8333333333333334,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5156577229499817
+    },
+    {
+        "Patient_ID": 490,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7933333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.558776319026947
+    },
+    {
+        "Patient_ID": 491,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.6866666666666666,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5607981085777283
+    },
+    {
+        "Patient_ID": 492,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5233333333333333,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5117948651313782
+    },
+    {
+        "Patient_ID": 493,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.8,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5384929180145264
+    },
+    {
+        "Patient_ID": 494,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.7466666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5760806798934937
+    },
+    {
+        "Patient_ID": 495,
+        "True_Label": "Unsuccessful",
+        "RF_Predicted": "Unsuccessful",
+        "RF_Confidence": 0.5066666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5564560890197754
+    },
+    {
+        "Patient_ID": 496,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.5,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5394988059997559
+    },
+    {
+        "Patient_ID": 497,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.84,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5460846424102783
+    },
+    {
+        "Patient_ID": 498,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.51,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5740727186203003
+    },
+    {
+        "Patient_ID": 499,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.8266666666666667,
+        "NN_Predicted": "Unsuccessful",
+        "NN_Confidence": 0.5080304741859436
+    },
+    {
+        "Patient_ID": 500,
+        "True_Label": "Successful",
+        "RF_Predicted": "Successful",
+        "RF_Confidence": 0.81,
+        "NN_Predicted": "Successful",
+        "NN_Confidence": 0.5245470404624939
+    }
+]

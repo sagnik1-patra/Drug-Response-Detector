@@ -1,0 +1,25 @@
+artifacts:
+  metadata_yaml: C:\Users\sagni\Downloads\Drug Response Detector\theraguide_metadata.yaml
+  model_h5: C:\Users\sagni\Downloads\Drug Response Detector\theraguide_model.h5
+  model_pkl: C:\Users\sagni\Downloads\Drug Response Detector\theraguide_model.pkl
+  recommendations_json: C:\Users\sagni\Downloads\Drug Response Detector\recommendations.json
+dataset: C:\Users\sagni\Downloads\Drug Response Detector\archive\DRP-for-Typhoid-Fever.csv
+features_used:
+- Patient ID
+- Age
+- Gender
+- Symptoms Severity
+- Hemoglobin (g/dL)
+- Platelet Count
+- Blood Culture Bacteria
+- Urine Culture Bacteria
+- Calcium (mg/dL)
+- Potassium (mmol/L)
+- Current Medication
+- Treatment Duration
+neural_network_accuracy: 0.49000000953674316
+num_features: 12
+project: TheraGuide - Drug Response Detector
+random_forest_accuracy: 0.48
+target: Treatment Outcome
+total_samples: 500
